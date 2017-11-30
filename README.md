@@ -2,7 +2,7 @@
 # go-getting-started
 
 A barebones Go app, which can easily be deployed to Heroku.
-
+一键部署 heroku 
 This application supports the [Getting Started with Go on Heroku](https://devcenter.heroku.com/articles/getting-started-with-go) article - check it out.
 
 ## Running Locally
